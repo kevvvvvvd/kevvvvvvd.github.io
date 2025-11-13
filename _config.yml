@@ -1,7 +1,7 @@
 # https://jupyterbook.org/customize/config.html
 
-title: "kevvvvvvd's Portfolio"
-author: kevvvvvvvd
+title: "Chengpu Deng's Portfolio"
+author: Chengpu Deng
 
 only_build_toc_files: true
 exclude_patterns:
